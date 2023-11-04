@@ -1,0 +1,19 @@
+{
+  "name": "com.91vrchat.calendar",
+  "displayName": "com.91vrchat.calendar",
+  "version": "0.0.1",
+  "description": "Describe this Package",
+  "dependencies": {},
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.worlds": "3.4.1"
+  },
+  "author": {
+    "name": "91vrchat",
+    "email": "yaya@qmq.moe",
+    "url": "https://91vrchat.com/"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "G:\\Unity\\New Project\\Packages\\com.91vrchat.calendar"
+}
