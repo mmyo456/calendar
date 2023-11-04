@@ -1,0 +1,13 @@
+{
+  "name": "com.91vrchat.calendar",
+  "displayName": "calendar",
+  "version": "0.8.3",
+  "unity": "2017.4",
+  "description": "\u4e2d\u6587\u6d3b\u52a8\u65e5\u5386",
+  "author": {
+    "name": "VRChat",
+    "email": "ya@qmq.moe",
+    "url": "https://91vrchat.com/"
+  },
+  "type": "tool"
+}
